@@ -41,5 +41,4 @@ print("She said, \"Hello!\"")  # includes double quotes in the string
 print("Line 1\nLine 2") # output will be: 
 # Line 1
 # Line 2
-print("Column 1\tColumn 2") # output will be:
-# Column 1    Column 2
+print("Column 1\tColumn 2") # output will be: Column 1    Column 2
