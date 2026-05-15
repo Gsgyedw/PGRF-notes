@@ -12,7 +12,7 @@ print(content1) # print the first line
 print(content2) # print the content of the file as a list of lines
 
 # write content in file
-f = open("FileIODemo.txt", "a") # open the file for writing, this will overwrite the existing content
+f = open("FileIODemo.txt", "a") # open the file for append mode. add on to current content
 f.write("\n Goodbye World!")
 
 f = open("FileIODemo.txt", "r") # open the file for reading
